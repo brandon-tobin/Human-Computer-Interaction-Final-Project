@@ -155,7 +155,8 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/timesaver_icon.png');
+  background-image: url('../img/Artboard 1timesaver.png');
+  background-size: contain;
   text-align: center;
   color: white;
 }
@@ -171,6 +172,10 @@ header .header-content .header-content-inner h1 {
   margin-top: 260px;
   margin-bottom: 0;
   font-size: 30px;
+  text-align: center;
+
+
+
 }
 header .header-content .header-content-inner hr {
   margin: 30px auto;
